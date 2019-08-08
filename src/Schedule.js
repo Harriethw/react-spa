@@ -9,11 +9,9 @@ class Schedule extends Component {
         <Card.Text>Cras facilisis urna ornare ex volutpat, et
         convallis erat elementum. Ut aliquam, ipsum vitae
         gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</Card.Text>
+        metus nec massa.</Card.Text>
  
-        <Card.Text>Duis a turpis sed lacus dapibus elementum sed eu lectus.</Card.Text>
+        <Card.Title>Schedule</Card.Title>
 
         <Card.Subtitle>09:00-10:00</Card.Subtitle>
         <Card.Text>first talk</Card.Text>
