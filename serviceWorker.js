@@ -1,11 +1,9 @@
 const cacheName = 'cache-v1';
 const precacheResources = [
   'index.html',
-  '/src/index.js',
-  '/src/Location.js',
-  '/src/Main.js',
-  '/src/Schedule.js',
-  '/src/FAQ.js'
+  '/js/FAQ.js',
+  '/js/Location.js',
+  '/js/Schedule.js'
 ];
 
 self.addEventListener('install', event => {
