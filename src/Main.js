@@ -28,7 +28,7 @@ class Main extends Component {
                         </Navbar.Collapse>
                     </Navbar>
                     <Card className="content" body>
-                        <Route path="/" component={Schedule} />
+                        <Route exact path="/" component={Schedule} />
                         <Route path="/location" component={Location} />
                         <Route path="/faq" component={FAQ} />
                     </Card>
