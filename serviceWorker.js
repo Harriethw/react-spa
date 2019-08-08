@@ -1,7 +1,6 @@
 const cacheName = 'cache-v1';
 const precacheResources = [
   'index.html',
-  '~/public/icon_192.png'
 ];
 
 self.addEventListener('install', event => {
