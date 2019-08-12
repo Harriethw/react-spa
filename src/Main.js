@@ -17,7 +17,7 @@ class Main extends Component {
             <HashRouter>
                 <div>
                     <Navbar bg="light" expand="lg">
-                        <Navbar.Brand href="/">Away Day 2019</Navbar.Brand>
+                        <Navbar.Brand>Away Day 2019</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="mr-auto">

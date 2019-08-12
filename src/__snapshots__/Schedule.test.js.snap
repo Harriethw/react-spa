@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Schedule should render correctly  1`] = `
+<CardBody>
+  <CardTitle>
+    Welcome!
+  </CardTitle>
+  <CardText>
+    Cras facilisis urna ornare ex volutpat, et convallis erat elementum. Ut aliquam, ipsum vitae gravida suscipit, metus dui bibendum est, eget rhoncus nibh metus nec massa.
+  </CardText>
+  <CardTitle>
+    Schedule
+  </CardTitle>
+  <CardSubtitle>
+    09:00-10:00
+  </CardSubtitle>
+  <CardText>
+    first talk
+  </CardText>
+  <CardSubtitle>
+    09:00-10:00
+  </CardSubtitle>
+  <CardText>
+    second talk
+  </CardText>
+  <CardSubtitle>
+    09:00-10:00
+  </CardSubtitle>
+  <CardText>
+    third talk
+  </CardText>
+  <CardSubtitle>
+    09:00-10:00
+  </CardSubtitle>
+  <CardText>
+    fourth talk
+  </CardText>
+</CardBody>
+`;
