@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main should render correctly  1`] = `
+<HashRouter>
+  <div>
+    <Bootstrap(undefined)
+      bg="light"
+      expand="lg"
+    >
+      <NavbarBrand>
+        Away Day 2019
+      </NavbarBrand>
+      <NavbarToggle
+        aria-controls="basic-navbar-nav"
+        label="Toggle navigation"
+      />
+      <NavbarCollapse
+        id="basic-navbar-nav"
+      >
+        <Nav
+          className="mr-auto"
+          fill={false}
+          justify={false}
+        >
+          <NavLink
+            as={[Function]}
+            disabled={false}
+          >
+            <NavLink
+              to="/"
+            >
+              Schedule
+            </NavLink>
+          </NavLink>
+          <NavLink
+            as={[Function]}
+            disabled={false}
+          >
+            <NavLink
+              to="/location"
+            >
+              Location
+            </NavLink>
+          </NavLink>
+          <NavLink
+            as={[Function]}
+            disabled={false}
+          >
+            <NavLink
+              to="/faq"
+            >
+              FAQ
+            </NavLink>
+          </NavLink>
+        </Nav>
+      </NavbarCollapse>
+    </Bootstrap(undefined)>
+    <Card
+      body={true}
+      className="content"
+    >
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <Route
+        component={[Function]}
+        path="/location"
+      />
+      <Route
+        component={[Function]}
+        path="/faq"
+      />
+    </Card>
+  </div>
+</HashRouter>
+`;
